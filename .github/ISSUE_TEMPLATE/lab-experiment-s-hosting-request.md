@@ -13,7 +13,6 @@ Use this issue to get your lab and experiment repositories hosted on Virtual Lab
 Please provide item 1 for all the experiments of the lab
 
 1. **Lab Name**: <!-- repositories must be public -->
-   | No.| Experiment Name | Experiment repository URL | Branch/Tag |
 2. **Discipline name**:<!--GitHub handle of the developer -->
 3. **Institute**:<!--Please type 2 if the lab was developed during Virtual Labs Phase 2 OR type 3 if the lab was developed during Virtual Labs Phase 3 -->
 4. **List of Experiments and Repositories**:<!--Please provide the hosted URL link if it is an existing hosted Phase 2 Lab -->
