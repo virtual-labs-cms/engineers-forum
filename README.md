@@ -1,15 +1,15 @@
-# Virtual Labs Engineers' Forum
+# Virtual Labs CMS Engineers' Forum
 
 This is the central repository to post all the queries regarding any lab, integration process, 
 problems faced, general questions etc.
 
-To log an issue: Please click on the `issues` button on the right. Or click: https://github.com/Virtual-Labs/engineers-forum/issues
+To log an issue: Please click on the `issues` button on the right. Or click: https://github.com/virtual-labs-cms/engineers-forum/issues
 
 To raise an hosting request please follow the [link](https://github.com/virtual-labs/engineers-forum/blob/master/hosting-process.org) to understand the hosting process. 
 
 You can even post answers and solutions to issues you have resolved on your own.
 
- ***NOTE***: Before posting a question or an issue, please go through the  [FAQ](https://github.com/Virtual-Labs/engineers-forum/issues?utf8=%E2%9C%93&q=label%3AFAQ) and [issues  list](https://github.com/Virtual-Labs/engineers-forum/issues?utf8=✓&q=is%3Aissue+-label%3A"request+for+hosting"+-label%3A "request+to+create+repo") to see if the issue you are facing already exists. If yes, then you can comment on the same  issue.
+ ***NOTE***: Before posting a question or an issue, please go through the  [FAQ](https://github.com/virtual-labs-cms/engineers-forum/issues?utf8=%E2%9C%93&q=label%3AFAQ) and [issues  list](https://github.com/virtual-labs-cms/engineers-forum/issues?utf8=✓&q=is%3Aissue+-label%3A"request+for+hosting"+-label%3A "request+to+create+repo") to see if the issue you are facing already exists. If yes, then you can comment on the same  issue.
  If you don't find an existing issue regarding the problem that you are facing, then only create a new issue.
 
 ***Guideline***:
